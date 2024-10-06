@@ -38,8 +38,8 @@ def main():
     print(f"New Environment Variable: {pythonPath}")
 
     # Set a new environment variable
-    os.environ["NEW_VAR"] = 'newValue'
-    print(f"New Environment Variable: {os.environ["NEW_VAR"]}")
+    # os.environ["NEW_VAR"] = 'newValue'
+    # print(f"New Environment Variable: {os.environ["NEW_VAR"]}")
 
     # Create a new file and write to it
     filePath = os.path.join(newDirectory, 'example.txt')
