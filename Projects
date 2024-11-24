@@ -1,7 +1,7 @@
 As a Python developer in cybersecurity, there are many tools and scripts you can create that cater to various needs, including penetration testing, malware analysis, and network security. Here are some ideas:
 
 ### 1. **Port Scanner**
-   - **Description:** A tool to scan open ports on a target system.
+- **Description:** A tool to scan open ports on a target system.
    - **Skills Utilized:** Sockets, networking, multithreading.
    - **Libraries:** `socket`, `threading`.
 
@@ -76,10 +76,3 @@ As a Python developer in cybersecurity, there are many tools and scripts you can
    - **Libraries:** `scapy`, `socket`.
 
 Would you like guidance on how to build any of these tools?
-
-
-
-
-
-
-
